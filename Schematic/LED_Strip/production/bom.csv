@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5",GW_QSLMS2.HM-H8H9-XX53-1U1V,5,GW QSLMS2.HM-H8H9-XX52-1U1V,
+"H1, H2",MountingHole_3.2mm_M3,2,MountingHole,
+J1,Pads_Dual_3x4,1,~,
+R1,1206,1,2.2Ω 0.25W,

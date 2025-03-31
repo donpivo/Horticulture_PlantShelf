@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "Horticulture_Test01_BasicHardware"
+		},
+		{
+			"name": "Horticulture_Test02_RTC",
+			"path": "Horticulture_Test02_RTC"
+		},
+		{
+			"name": "Horticulture_Test03_RTC_Alarm",
+			"path": "Horticulture_Test03_RTC_Alarm"
+		},
+		{
+			"name": "Horticulture_Test04_Flash",
+			"path": "Horticulture_Test04_Flash"
+		},
+		{
+			"name": "Horticulture_Test05_RotaryEncoder",
+			"path": "../../../../Documents/PlatformIO/Projects/Horticulture_Test05_RotaryEncoder"
+		},
+		{
+			"name": "Horticulture_Test06_Display",
+			"path": "Horticulture_Test06_Display"
+		},
+		{
+			"name": "Horticulture_Test07_I2C",
+			"path": "Horticulture_Test07_I2C"
+		},
+		{
+			"name": "Horticulture_Test08_Adafruit_SSD1306",
+			"path": "Horticulture_Test08_Adafruit_SSD1306"
+		},
+		{
+			"name": "Horticulture_Test09_TimeRange",
+			"path": "Horticulture_Test09_TimeRange"
+		}
+	],
+	"settings": {}
+}
